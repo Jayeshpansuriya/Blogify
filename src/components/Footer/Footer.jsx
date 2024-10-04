@@ -17,8 +17,8 @@ function Footer() {
               <div>
                 <p className="text-sm text-gray-400">
                   &copy; {currentYear}. All Rights Reserved by{' '}
-                  <a href="https://www.linkedin.com/in/aditya-patel-99a09b23a/" className="hover:underline text-cyan-500">
-                    Aditya Patel
+                  <a href="https://www.linkedin.com/in/jayesh-pansuriya-7411a0222/" className="hover:underline text-cyan-500">
+                     Jayesh pansuriya
                   </a>.
                 </p>
               </div>
