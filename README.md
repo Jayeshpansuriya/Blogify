@@ -1,7 +1,5 @@
 # React + Vite
 
-## Checkout My Website [Blogify](https://blogify-aditya.vercel.app/)
-
 ![Blogify](/src/assets/spinner1.gif)
 
 Blogify is a modern blogging platform where users can read and post articles, designed with a sleek UI and smooth UX. Built with **React** and powered by **Vite** for blazing fast development experience and performance.
